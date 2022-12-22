@@ -1,1 +1,1 @@
-Our first challenge is to clean up the code in general whilst also adding in lines to clean up the look of the CSS and HTML. We would also be adding features that make the website more accessable to people as well as help it in search engines.
+Our first challenge is to clean up the code in general whilst also adding in lines to clean up the look of the CSS and HTML. We would also be adding features that make the website more accesseble to people as well as help it in search engines. Doing all this while not changing how the website works.
